@@ -1,5 +1,13 @@
 # Reagent-backend
 
+Pre-requisites Python installation machine.
+Steps for Running on local machine 
+
+clone the code from master branch and follow below steps.
+
+1. cd reagent-backend
+2. pip install -r requirements.txt
+3. python manage.py runserver  
 
 
 ## Getting started
